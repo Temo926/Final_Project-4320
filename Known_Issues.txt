@@ -1,6 +1,0 @@
-
-Issues- Tkinter doesn't run on Jupyter, However using 
-Ai I was able to Change the code to run on Jupyter Labs
-Considering I am a beginner coder, The project was ok. 
-I remember trying to learn Python Years ago and honestly we Ai 
-has made coding easier to understand. 

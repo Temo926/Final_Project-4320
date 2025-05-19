@@ -1,0 +1,29 @@
+
+Issues- Tkinter doesn't run on Jupyter, However using 
+Ai I was able to Change the code to run on Jupyter Labs
+Considering I am a beginner coder, The project was ok. 
+I remember trying to learn Python Years ago and honestly we Ai 
+has made coding easier to understand
+
+
+Include what was the purpose of your app
+	I wanted to build a password generator, and I am still new to coding. 
+
+what you attempted
+	I used tkinter, I used an old template from a previous project
+	modified some variables
+
+what worked and what didn't work
+	Since I used a template most buttons and labels worked
+	However, I had to re-write some code to make it work on JupyterHub
+
+what you would still like to do in the future.
+	I am intereseted in building a better GUI, but I was told 
+	Java is better 
+	
+ Also what did you learn?
+	Python is not great for building GUI's but it is 
+	good for data scraping, sorting, and DB creation.
+	Going into CySec I would have to learn Scripting, however
+	I think learning some code and Ai is the Fast Way 
+	to learn it. 
